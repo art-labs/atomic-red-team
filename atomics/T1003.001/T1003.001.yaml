@@ -232,3 +232,4 @@ atomic_tests:
       pypykatz live lsa
     name: command_prompt
     elevation_required: true
+    
